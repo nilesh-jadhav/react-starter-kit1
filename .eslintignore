@@ -1,0 +1,4 @@
+# don't lint tests & mocks ?
+**/__tests__
+**/__mocks__
+# not going to bother to lint es6 code that's been compiled to es5
